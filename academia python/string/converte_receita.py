@@ -1,0 +1,1 @@
+def converte_receita(dreceita):

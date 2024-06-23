@@ -1,0 +1,1 @@
+def extrair_placas()
